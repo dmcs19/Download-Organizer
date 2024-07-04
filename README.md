@@ -21,7 +21,7 @@ A Python script that automatically organizes files in the Downloads folder into 
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/download-organizer.git
+    git clone https://github.com/dmcs19/Download-Organizer.git
     cd download-organizer
     ```
 
